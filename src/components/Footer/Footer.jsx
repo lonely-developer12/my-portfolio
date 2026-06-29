@@ -106,19 +106,19 @@ const Footer = () => {
           <ContactTitle>CONTACT.sys</ContactTitle>
           <ContactItem>
             <FaPhone />
-            <a href="tel:+1 234 567 890">+1 234 567 890</a>
+            <a href="tel:+38766072314">+387 66 072 314</a>
           </ContactItem>
           <ContactItem>
             <FaEnvelope />
-            <a href="your@email.com">your@email.com</a>
+            <a href="mailto:emirbuzdic@gmail.com">Gmail</a>
           </ContactItem>
           <ContactItem>
             <FaMapMarkerAlt />
-            <span>New York, USA</span>
+            <span>Bjeljina Bosnia and Herzegovina</span>
           </ContactItem>
           <ContactItem>
             <FaDiscord />
-            <a href="https://discord.gg/yourdiscord" target="_blank" rel="noopener noreferrer">
+            <a href="https://discord.gg/qwmxBjKn6 " target="_blank" rel="noopener noreferrer">
               Join Discord Server
             </a>
           </ContactItem>
@@ -128,13 +128,13 @@ const Footer = () => {
           <ContactTitle>SOCIAL.exe</ContactTitle>
           <ContactItem>
             <FaGithub />
-            <a href="https://github.com/yourusername" target="_blank" rel="noopener noreferrer">
+            <a href="https://github.com/lonely-developer12/" target="_blank" rel="noopener noreferrer">
               GitHub Profile
             </a>
           </ContactItem>
           <ContactItem>
             <FaLinkedin />
-            <a href="https://linkedin.com/in/yourusername" target="_blank" rel="noopener noreferrer">
+            <a href="https://www.linkedin.com/in/emir-b-058276300" target="_blank" rel="noopener noreferrer">
               LinkedIn Profile
             </a>
           </ContactItem>
